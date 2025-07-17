@@ -1,0 +1,3192 @@
+{
+  "vaultName": "complete",
+  "lastExport": 1752719382870,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "CN/img/1.png",
+    "CN/img/2.png",
+    "CN/img/3.png",
+    "CN/img/4.png",
+    "CN/img/5.png",
+    "CN/img/6.png",
+    "CN/img/7.png",
+    "CN/img/8.png",
+    "CN/img/9.png",
+    "CN/img/10.png",
+    "CN/img/11.png",
+    "CN/img/12.png",
+    "CN/img/CSMA1.png",
+    "CN/img/CSMA2.png",
+    "CN/img/CSMA3.png",
+    "CN/img/CSMA4.png",
+    "CN/img/CSMACD1.png",
+    "CN/img/CSMACD2.png",
+    "CN/img/CSMACD3.png",
+    "CN/img/CSMACD4.png",
+    "CN/img/Layeredexample.png",
+    "CN/img/MultipleAccess.png",
+    "CN/img/OSI1.png",
+    "CN/img/OSI2.png",
+    "CN/img/OSI3.png",
+    "CN/img/OSI11.png",
+    "CN/img/OSI12.png",
+    "CN/img/OSI13.png",
+    "CN/img/OSI14.png",
+    "CN/img/OSI15.png",
+    "CN/img/OSI16.png",
+    "CN/img/OSI17.png",
+    "CN/img/OSI18.png",
+    "CN/img/OSI19.png",
+    "CN/img/OSI20.png",
+    "CN/img/OSI21.png",
+    "CN/img/Pasted image 20250222185456.png",
+    "CN/img/Pasted image 20250223092151.png",
+    "CN/img/Pasted image 20250228090351.png",
+    "CN/img/PureALOHA1.png",
+    "CN/img/PureALOHA2.png",
+    "CN/img/Screenshot 2025-02-23 091952.png",
+    "CN/img/Screenshot 2025-02-23 092436.png",
+    "CN/img/SlottedALOHA1.png",
+    "CN/img/SlottedALOHA2.png",
+    "CN/img/TCPHeader.png",
+    "CN/img/TCPHeaderFlags.png",
+    "CN/img/TCPsegmentflow.png",
+    "CN/img/Topologies.jpg",
+    "CN/Standard Clint Service Protocols/img/Emailaddress.png",
+    "CN/Standard Clint Service Protocols/img/EmailArct.png",
+    "CN/Standard Clint Service Protocols/img/EmailEg1.png",
+    "CN/Standard Clint Service Protocols/img/EmailEg2.png",
+    "CN/Standard Clint Service Protocols/img/EmailEgcookie.png",
+    "CN/Standard Clint Service Protocols/img/EmailMessageStruct.png",
+    "CN/Standard Clint Service Protocols/img/EmailNONPersistent.png",
+    "CN/Standard Clint Service Protocols/img/EmailPersistent.png",
+    "CN/Standard Clint Service Protocols/img/EmailProtocol.png",
+    "CN/Standard Clint Service Protocols/img/EmailUserAgent.png",
+    "CN/Standard Clint Service Protocols/img/EmailWorkingBrowser.png",
+    "CN/Standard Clint Service Protocols/img/FTP.png",
+    "CN/Standard Clint Service Protocols/img/FTPcmd.png",
+    "CN/Standard Clint Service Protocols/img/FTPEg.png",
+    "CN/Standard Clint Service Protocols/img/HTTPEg1.png",
+    "CN/Standard Clint Service Protocols/img/HTTPEg2.png",
+    "CN/Standard Clint Service Protocols/img/HTTPProxy.png",
+    "CN/Standard Clint Service Protocols/img/HTTPstruct.png",
+    "CN/Standard Clint Service Protocols/img/MIME5.png",
+    "CN/Standard Clint Service Protocols/img/MIMS1.png",
+    "CN/Standard Clint Service Protocols/img/MIMS2.png",
+    "CN/Standard Clint Service Protocols/img/MIMS3.png",
+    "CN/Standard Clint Service Protocols/img/MIMS4.png",
+    "CN/Standard Clint Service Protocols/img/Telnet.png",
+    "CN/Standard Clint Service Protocols/img/Telnet_NVT.png",
+    "CN/Standard Clint Service Protocols/img/WebEmail.png",
+    "CN/Standard Clint Service Protocols/Email.md",
+    "CN/Standard Clint Service Protocols/FTP.md",
+    "CN/Standard Clint Service Protocols/HTTPstructureexp.md",
+    "CN/Standard Clint Service Protocols/Telnet.md",
+    "CN/Standard Clint Service Protocols/WWW HTTP.md",
+    "CN/Untitled/01 UPLOADED Chapter 1- Introduction.ppt",
+    "CN/Untitled/2standards-and-protocols.ppt",
+    "CN/Untitled/3.6 Dijkstra Algorithm - Single Source Shortest Path - Greedy Method.mp4",
+    "CN/Untitled/20-22 Network Layer Design Issues - upload.ppt",
+    "CN/Untitled/audio video compression.ppt",
+    "CN/Untitled/ch21 upload.ppt",
+    "CN/Untitled/Connecting LANs UPLOAD.ppt",
+    "CN/Untitled/Data Communications and Networking – Behrouz A. Forouzan.fourth edition[A4].pdf",
+    "CN/Untitled/DISTANCE VECTOR ROUTING - PART-2.mp4",
+    "CN/Untitled/frmCourseSyllabusIPDownload.pdf",
+    "CN/Untitled/ICMP upload.pdf",
+    "CN/Untitled/lect 5 chapt 2 transmission media upload.ppt",
+    "CN/Untitled/lecture 6 chapter 2 line coding upload.pptx",
+    "CN/Untitled/lecture 16 [Autosaved]upload.ppt",
+    "CN/Untitled/lecture Multiple Access upload 14.2.2021.ppt",
+    "CN/Untitled/updated 22a (Process to process delivery (UDP and TCP)) 121 slides.ppt",
+    "CN/Untitled/upload 03 Analog and Digital Transmission.ppt",
+    "CN/Untitled/upload 04 Layered Architecture of Computer Networks OSI and TCPIP Model Lecture 5.ppt",
+    "CN/Untitled/UPLOAD 26 (SMTP and FTP) 76 slides.ppt",
+    "CN/Untitled/UPLOAD ch26 UPDATED.ppt",
+    "CN/Untitled/zerolecture ECE416.pdf",
+    "CN/CSMA.md",
+    "CN/CSMACD.md",
+    "CN/DataCommunication.md",
+    "CN/OSI.md",
+    "CN/Process-To-Process.md",
+    "CN/PureALOHA.md",
+    "CN/RandomAccess.md",
+    "CN/SlottedALOHA.md",
+    "CN/TCP.md",
+    "CN/TCP IP.md",
+    "CN/Topologies.md",
+    "CN/UDP.md",
+    "CN/Untitled.canvas",
+    "CN/Untitled 1.canvas",
+    "D3,js/Untitled.md",
+    "Eng/Narration.md",
+    "Eng/Para Jumbles.md",
+    "Java/New folder/03. Variables and Data Types (1).pptx",
+    "Java/New folder/04. Operators.pptx",
+    "Java/New folder/05. Control Structures.ppt",
+    "Java/New folder/07. Array and Enum.ppt",
+    "Java/New folder/09. ArrayList.ppt",
+    "Java/New folder/10. Methods and Constructors.ppt",
+    "Java/New folder/11. this, final, super and static keywords.ppt",
+    "Java/New folder/12. Abstract Class and Interface.ppt",
+    "Java/New folder/13. String Handling(String Class).pptx",
+    "Java/New folder/Assertion.ppt",
+    "Java/New folder/Exception Handling.pptx",
+    "Java/New folder/frmCourseSyllabusIPDownload.pdf",
+    "Java/New folder/Inheritance.pptx",
+    "Java/New folder/Input output ppt .pptx",
+    "Java/New folder/Interfaces and Lambda Expressions .pptx",
+    "Java/New folder/Java practise qns.pdf",
+    "Java/New folder/lect_2.pptx",
+    "Java/New folder/Polymorphism in java.pptx",
+    "Java/New folder/zeroLect_CSE380.pptx",
+    "Java/arrayLength.md",
+    "Java/Arrays.md",
+    "Java/Assertion.md",
+    "Java/Classes.md",
+    "Java/Constructor.md",
+    "Java/ContructorChainingWithSuper.md",
+    "Java/ContructorChainingWithThis.md",
+    "Java/Default values.md",
+    "Java/Enums.md",
+    "Java/EnumsScope.md",
+    "Java/Exception and Assertion MCQs.md",
+    "Java/Exception Handeling.md",
+    "Java/FinalKeyword.md",
+    "Java/functionPassingValues.md",
+    "Java/Instanceof.md",
+    "Java/Interfaces.md",
+    "Java/Interfaces and Lambda.md",
+    "Java/Introduction To Java.md",
+    "Java/Java IO.md",
+    "Java/Java Syntax.md",
+    "Java/Javaa.canvas",
+    "Java/Loops.md",
+    "Java/mcq_string.png",
+    "Java/Methods.md",
+    "Java/more about static.md",
+    "Java/Operators and Precedence.md",
+    "Java/Polymorphism.md",
+    "Java/ShortCircuitLogicalOperators.md",
+    "Java/StaticKeyword.md",
+    "Java/StringcompareTo().md",
+    "Java/StringConcat.md",
+    "Java/StringConstructor.md",
+    "Java/StringgetChars().md",
+    "Java/StringMethods.md",
+    "Java/Strings.md",
+    "Java/Stringsplit().md",
+    "Java/SuperKeyword.md",
+    "Java/Taking Input.md",
+    "Java/TakingInput_scanner_methods.png",
+    "Java/ThisKeyword.md",
+    "maths/gaphs.pdf",
+    "maths/index.md",
+    "maths/MTH_Unit IV_mcq.pdf",
+    "maths/Rosen_Discrete_Mathematics_and_Its_Applications_7th_Edition.pdf",
+    "maths/trees.pdf",
+    "maths/Untitled.md",
+    "maths/wi.pdf",
+    "Index.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 73050,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3263,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 138258,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 373518,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 262,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "analytical/img/study-roof-numbers-system-(part-1)-🔴classification-of-numbers-🔴conversion-of-decimal-to-fraction-shortcut-trick-[3ncdbkktemy-1006x566-2m44s].png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 175427,
+      "exportedPath": "analytical/img/study-roof-numbers-system-(part-1)-🔴classification-of-numbers-🔴conversion-of-decimal-to-fraction-shortcut-trick-[3ncdbkktemy-1006x566-2m44s].png",
+      "dependencies": []
+    },
+    "analytical/img/study-roof-numbers-system-(part-1)-🔴classification-of-numbers-🔴conversion-of-decimal-to-fraction-shortcut-trick-[3ncdbkktemy-1006x566-22m40s].png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 227879,
+      "exportedPath": "analytical/img/study-roof-numbers-system-(part-1)-🔴classification-of-numbers-🔴conversion-of-decimal-to-fraction-shortcut-trick-[3ncdbkktemy-1006x566-22m40s].png",
+      "dependencies": []
+    },
+    "analytical/img/study-roof-numbers-system-(part-1)-🔴classification-of-numbers-🔴conversion-of-decimal-to-fraction-shortcut-trick-[3ncdbkktemy-1006x566-25m30s].png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 149606,
+      "exportedPath": "analytical/img/study-roof-numbers-system-(part-1)-🔴classification-of-numbers-🔴conversion-of-decimal-to-fraction-shortcut-trick-[3ncdbkktemy-1006x566-25m30s].png",
+      "dependencies": []
+    },
+    "de/boolean/qans/img/ans11.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 8982,
+      "exportedPath": "de/boolean/qans/img/ans11.png",
+      "dependencies": []
+    },
+    "de/boolean/qans/img/qans1.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 9958,
+      "exportedPath": "de/boolean/qans/img/qans1.png",
+      "dependencies": []
+    },
+    "de/boolean/qans/img/ans13.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 9934,
+      "exportedPath": "de/boolean/qans/img/ans13.png",
+      "dependencies": []
+    },
+    "de/boolean/qans/img/ans14.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 10712,
+      "exportedPath": "de/boolean/qans/img/ans14.png",
+      "dependencies": []
+    },
+    "de/boolean/qans/img/ans15.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 8212,
+      "exportedPath": "de/boolean/qans/img/ans15.png",
+      "dependencies": []
+    },
+    "de/boolean/qans/img/qans2.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 13995,
+      "exportedPath": "de/boolean/qans/img/qans2.png",
+      "dependencies": []
+    },
+    "de/boolean/qans/img/ans17.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 13187,
+      "exportedPath": "de/boolean/qans/img/ans17.png",
+      "dependencies": []
+    },
+    "de/boolean/qans/img/ans21.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 9379,
+      "exportedPath": "de/boolean/qans/img/ans21.png",
+      "dependencies": []
+    },
+    "de/boolean/qans/img/ans22.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 12959,
+      "exportedPath": "de/boolean/qans/img/ans22.png",
+      "dependencies": []
+    },
+    "de/boolean/qans/img/ans23.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 6110,
+      "exportedPath": "de/boolean/qans/img/ans23.png",
+      "dependencies": []
+    },
+    "de/boolean/qans/img/qans3.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 7463,
+      "exportedPath": "de/boolean/qans/img/qans3.png",
+      "dependencies": []
+    },
+    "de/boolean/qans/img/ans25.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 25202,
+      "exportedPath": "de/boolean/qans/img/ans25.png",
+      "dependencies": []
+    },
+    "de/boolean/img/xnor-with-xnor.svg": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 60199,
+      "exportedPath": "de/boolean/img/xnor-with-xnor.svg",
+      "dependencies": []
+    },
+    "de/boolean/img/ans6.jpg": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 5027603,
+      "exportedPath": "de/boolean/img/ans6.jpg",
+      "dependencies": []
+    },
+    "de/boolean/img/ans7.jpg": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 3292604,
+      "exportedPath": "de/boolean/img/ans7.jpg",
+      "dependencies": []
+    },
+    "de/boolean/img/boolean_canonicalform.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 732916,
+      "exportedPath": "de/boolean/img/boolean_canonicalform.png",
+      "dependencies": []
+    },
+    "de/boolean/img/boolean_functionallycomplete.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 470548,
+      "exportedPath": "de/boolean/img/boolean_functionallycomplete.png",
+      "dependencies": []
+    },
+    "de/boolean/img/boolean_universalgatesnans.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 1054957,
+      "exportedPath": "de/boolean/img/boolean_universalgatesnans.png",
+      "dependencies": []
+    },
+    "de/boolean/img/boolean_universalgatesnor.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 1003646,
+      "exportedPath": "de/boolean/img/boolean_universalgatesnor.png",
+      "dependencies": []
+    },
+    "de/combinational/img/halfadder.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 122475,
+      "exportedPath": "de/combinational/img/halfadder.png",
+      "dependencies": []
+    },
+    "de/combinational/img/fulladder.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 141143,
+      "exportedPath": "de/combinational/img/fulladder.png",
+      "dependencies": []
+    },
+    "de/combinational/img/fulladderwithhalfadder.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 209187,
+      "exportedPath": "de/combinational/img/fulladderwithhalfadder.png",
+      "dependencies": []
+    },
+    "de/combinational/img/carrylookaheadadder_1.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 196665,
+      "exportedPath": "de/combinational/img/carrylookaheadadder_1.png",
+      "dependencies": []
+    },
+    "de/combinational/img/carrylookaheadadder_2.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 177533,
+      "exportedPath": "de/combinational/img/carrylookaheadadder_2.png",
+      "dependencies": []
+    },
+    "de/combinational/img/carrylookaheadadder_3.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 208029,
+      "exportedPath": "de/combinational/img/carrylookaheadadder_3.png",
+      "dependencies": []
+    },
+    "de/combinational/img/carrylookaheadadder_4.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 169119,
+      "exportedPath": "de/combinational/img/carrylookaheadadder_4.png",
+      "dependencies": []
+    },
+    "de/combinational/img/carrylookaheadadder_5.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 190977,
+      "exportedPath": "de/combinational/img/carrylookaheadadder_5.png",
+      "dependencies": []
+    },
+    "de/combinational/img/carrylookaheadadder_6.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 204703,
+      "exportedPath": "de/combinational/img/carrylookaheadadder_6.png",
+      "dependencies": []
+    },
+    "de/combinational/img/carrylookaheadadder_7.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 221581,
+      "exportedPath": "de/combinational/img/carrylookaheadadder_7.png",
+      "dependencies": []
+    },
+    "de/combinational/img/carrylookaheadadder_8.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 241285,
+      "exportedPath": "de/combinational/img/carrylookaheadadder_8.png",
+      "dependencies": []
+    },
+    "de/combinational/img/carrylookaheadadder_9.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 226090,
+      "exportedPath": "de/combinational/img/carrylookaheadadder_9.png",
+      "dependencies": []
+    },
+    "de/combinational/img/carrylookaheadadder_10.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 230736,
+      "exportedPath": "de/combinational/img/carrylookaheadadder_10.png",
+      "dependencies": []
+    },
+    "de/combinational/img/comparator.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 9475,
+      "exportedPath": "de/combinational/img/comparator.png",
+      "dependencies": []
+    },
+    "de/combinational/img/decoder.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 22752,
+      "exportedPath": "de/combinational/img/decoder.png",
+      "dependencies": []
+    },
+    "de/combinational/img/dmux.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 134205,
+      "exportedPath": "de/combinational/img/dmux.png",
+      "dependencies": []
+    },
+    "de/combinational/img/encoder_1.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 262856,
+      "exportedPath": "de/combinational/img/encoder_1.png",
+      "dependencies": []
+    },
+    "de/combinational/img/encoder_6.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 202496,
+      "exportedPath": "de/combinational/img/encoder_6.png",
+      "dependencies": []
+    },
+    "de/combinational/img/encoder_2.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 154954,
+      "exportedPath": "de/combinational/img/encoder_2.png",
+      "dependencies": []
+    },
+    "de/combinational/img/encoder_3.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 196766,
+      "exportedPath": "de/combinational/img/encoder_3.png",
+      "dependencies": []
+    },
+    "de/combinational/img/encoder_4.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 279530,
+      "exportedPath": "de/combinational/img/encoder_4.png",
+      "dependencies": []
+    },
+    "de/combinational/img/encoder_5.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 253913,
+      "exportedPath": "de/combinational/img/encoder_5.png",
+      "dependencies": []
+    },
+    "de/combinational/img/mux.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 335415,
+      "exportedPath": "de/combinational/img/mux.png",
+      "dependencies": []
+    },
+    "de/combinational/img/ripplecarryadder.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 27496,
+      "exportedPath": "de/combinational/img/ripplecarryadder.png",
+      "dependencies": []
+    },
+    "de/combinational/img/riplecarryadder_1.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 280612,
+      "exportedPath": "de/combinational/img/riplecarryadder_1.png",
+      "dependencies": []
+    },
+    "de/combinational/img/riplecarryadder_2.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 325072,
+      "exportedPath": "de/combinational/img/riplecarryadder_2.png",
+      "dependencies": []
+    },
+    "de/combinational/img/riplecarryadder_3.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 327137,
+      "exportedPath": "de/combinational/img/riplecarryadder_3.png",
+      "dependencies": []
+    },
+    "de/combinational/img/riplecarryadder_4.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 268979,
+      "exportedPath": "de/combinational/img/riplecarryadder_4.png",
+      "dependencies": []
+    },
+    "de/combinational/img/riplesub.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 6665,
+      "exportedPath": "de/combinational/img/riplesub.png",
+      "dependencies": []
+    },
+    "de/combinational/img/halfsub.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 150311,
+      "exportedPath": "de/combinational/img/halfsub.png",
+      "dependencies": []
+    },
+    "de/combinational/img/fullsub.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 191787,
+      "exportedPath": "de/combinational/img/fullsub.png",
+      "dependencies": []
+    },
+    "de/functionimp/img/directformminters.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 460438,
+      "exportedPath": "de/functionimp/img/directformminters.png",
+      "dependencies": []
+    },
+    "de/functionimp/img/formtruthtable.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 670346,
+      "exportedPath": "de/functionimp/img/formtruthtable.png",
+      "dependencies": []
+    },
+    "de/functionimp/img/fromkmap.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 252322,
+      "exportedPath": "de/functionimp/img/fromkmap.png",
+      "dependencies": []
+    },
+    "de/functionimp/img/groupingmethod.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 303941,
+      "exportedPath": "de/functionimp/img/groupingmethod.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/asynreset.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 53697,
+      "exportedPath": "de/sequential/ff/img/asynreset.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/characteristictable.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 39984,
+      "exportedPath": "de/sequential/ff/img/characteristictable.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/dff.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 33432,
+      "exportedPath": "de/sequential/ff/img/dff.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/dall.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 584005,
+      "exportedPath": "de/sequential/ff/img/dall.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/d__.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 16355,
+      "exportedPath": "de/sequential/ff/img/d__.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/d_ff_3sr_latches.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 29727,
+      "exportedPath": "de/sequential/ff/img/d_ff_3sr_latches.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/jkff.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 41749,
+      "exportedPath": "de/sequential/ff/img/jkff.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/jk__d_ff_to_jk.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 23626,
+      "exportedPath": "de/sequential/ff/img/jk__d_ff_to_jk.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/jkall.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 635190,
+      "exportedPath": "de/sequential/ff/img/jkall.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/sr_img/sr_latch_nor.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 32946,
+      "exportedPath": "de/sequential/ff/img/sr_img/sr_latch_nor.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/sr_img/sr_latch_nand.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 30495,
+      "exportedPath": "de/sequential/ff/img/sr_img/sr_latch_nand.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/sr_img/sr_latch_control.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 38185,
+      "exportedPath": "de/sequential/ff/img/sr_img/sr_latch_control.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/srall.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 621869,
+      "exportedPath": "de/sequential/ff/img/srall.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/tff.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 20700,
+      "exportedPath": "de/sequential/ff/img/tff.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/t__d_ff_to_t.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 21150,
+      "exportedPath": "de/sequential/ff/img/t__d_ff_to_t.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/tall.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 614947,
+      "exportedPath": "de/sequential/ff/img/tall.png",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/toggle-with-diff-ff.jpg": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 456234,
+      "exportedPath": "de/sequential/ff/img/toggle-with-diff-ff.jpg",
+      "dependencies": []
+    },
+    "de/sequential/ff/img/toggle-with-d-ff.jpg": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 1382315,
+      "exportedPath": "de/sequential/ff/img/toggle-with-d-ff.jpg",
+      "dependencies": []
+    },
+    "de/sequential/shiftregister/ptop/shiftregisterbasic.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 15057,
+      "exportedPath": "de/sequential/shiftregister/ptop/shiftregisterbasic.png",
+      "dependencies": []
+    },
+    "de/sequential/shiftregister/ptop/shiftregister_ptop_with_control.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 29797,
+      "exportedPath": "de/sequential/shiftregister/ptop/shiftregister_ptop_with_control.png",
+      "dependencies": []
+    },
+    "de/sequential/shiftregister/stos/seialadder.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 38454,
+      "exportedPath": "de/sequential/shiftregister/stos/seialadder.png",
+      "dependencies": []
+    },
+    "de/sequential/shiftregister/stos/shiftreg_basicstos.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 16374,
+      "exportedPath": "de/sequential/shiftregister/stos/shiftreg_basicstos.png",
+      "dependencies": []
+    },
+    "de/sequential/shiftregister/stos/serialtoserialfull.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 43457,
+      "exportedPath": "de/sequential/shiftregister/stos/serialtoserialfull.png",
+      "dependencies": []
+    },
+    "de/sequential/shiftregister/universal/universalshiftsymbol.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 10744,
+      "exportedPath": "de/sequential/shiftregister/universal/universalshiftsymbol.png",
+      "dependencies": []
+    },
+    "de/sequential/shiftregister/universal/universalshiftreg.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 38713,
+      "exportedPath": "de/sequential/shiftregister/universal/universalshiftreg.png",
+      "dependencies": []
+    },
+    "de/simplification/kmap/img/simplification_kmap_implicanttype_img/implicants_1.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 87982,
+      "exportedPath": "de/simplification/kmap/img/simplification_kmap_implicanttype_img/implicants_1.png",
+      "dependencies": []
+    },
+    "de/simplification/kmap/img/simplification_kmap_implicanttype_img/implicants_2.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 89845,
+      "exportedPath": "de/simplification/kmap/img/simplification_kmap_implicanttype_img/implicants_2.png",
+      "dependencies": []
+    },
+    "de/simplification/kmap/img/simplification_kmap_implicanttype_img/implicants_3.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 78377,
+      "exportedPath": "de/simplification/kmap/img/simplification_kmap_implicanttype_img/implicants_3.png",
+      "dependencies": []
+    },
+    "de/simplification/kmap/img/simplification_kmap_implicanttype_img/implicants_4.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 149566,
+      "exportedPath": "de/simplification/kmap/img/simplification_kmap_implicanttype_img/implicants_4.png",
+      "dependencies": []
+    },
+    "de/simplification/kmap/img/simplification_kmap_implicanttype_img/implicants_5.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 153790,
+      "exportedPath": "de/simplification/kmap/img/simplification_kmap_implicanttype_img/implicants_5.png",
+      "dependencies": []
+    },
+    "de/simplification/kmap/img/simplification_kmap_6varkmap.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 455387,
+      "exportedPath": "de/simplification/kmap/img/simplification_kmap_6varkmap.png",
+      "dependencies": []
+    },
+    "de/simplification/kmap/img/simplification_kmap_5varkmap.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 422815,
+      "exportedPath": "de/simplification/kmap/img/simplification_kmap_5varkmap.png",
+      "dependencies": []
+    },
+    "de/simplification/kmap/img/simplification_kmap_4varkmap.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 327105,
+      "exportedPath": "de/simplification/kmap/img/simplification_kmap_4varkmap.png",
+      "dependencies": []
+    },
+    "de/simplification/kmap/img/simplification_kmap_kmaprules.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 449147,
+      "exportedPath": "de/simplification/kmap/img/simplification_kmap_kmaprules.png",
+      "dependencies": []
+    },
+    "de/simplification/kmap/img/kmapdontcare.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 578969,
+      "exportedPath": "de/simplification/kmap/img/kmapdontcare.png",
+      "dependencies": []
+    },
+    "de/simplification/qans/img/ans10.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 11845,
+      "exportedPath": "de/simplification/qans/img/ans10.png",
+      "dependencies": []
+    },
+    "de/simplification/qans/img/ans11.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 21394,
+      "exportedPath": "de/simplification/qans/img/ans11.png",
+      "dependencies": []
+    },
+    "de/simplification/qans/img/ans18.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 17129,
+      "exportedPath": "de/simplification/qans/img/ans18.png",
+      "dependencies": []
+    },
+    "de/simplification/qans/img/ans19.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 16094,
+      "exportedPath": "de/simplification/qans/img/ans19.png",
+      "dependencies": []
+    },
+    "de/simplification/qans/img/ans20.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 13048,
+      "exportedPath": "de/simplification/qans/img/ans20.png",
+      "dependencies": []
+    },
+    "de/simplification/kmap/img/simplification_quine-mccluskey.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 774568,
+      "exportedPath": "de/simplification/kmap/img/simplification_quine-mccluskey.png",
+      "dependencies": []
+    },
+    "reconfigurable-architecture-vlsi/7segment/7segment_image.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 426896,
+      "exportedPath": "reconfigurable-architecture-vlsi/7segment/7segment_image.png",
+      "dependencies": []
+    },
+    "reconfigurable-architecture-vlsi/clockdivider/clockdividergenral_img/clockdevidergenral_1.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 4313,
+      "exportedPath": "reconfigurable-architecture-vlsi/clockdivider/clockdividergenral_img/clockdevidergenral_1.png",
+      "dependencies": []
+    },
+    "reconfigurable-architecture-vlsi/clockdivider/clockdividergenral_img/clockdividergenral_2.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 14242,
+      "exportedPath": "reconfigurable-architecture-vlsi/clockdivider/clockdividergenral_img/clockdividergenral_2.png",
+      "dependencies": []
+    },
+    "reconfigurable-architecture-vlsi/clockdivider/clockdividergenral_img/clockdividergenral_3.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 12244,
+      "exportedPath": "reconfigurable-architecture-vlsi/clockdivider/clockdividergenral_img/clockdividergenral_3.png",
+      "dependencies": []
+    },
+    "reconfigurable-architecture-vlsi/fsm/fsm_moore.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 1100480,
+      "exportedPath": "reconfigurable-architecture-vlsi/fsm/fsm_moore.png",
+      "dependencies": []
+    },
+    "reconfigurable-architecture-vlsi/fsm/fsm_melay.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 653227,
+      "exportedPath": "reconfigurable-architecture-vlsi/fsm/fsm_melay.png",
+      "dependencies": []
+    },
+    "reconfigurable-architecture-vlsi/images/pasted-image-20250308060553.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 1975833,
+      "exportedPath": "reconfigurable-architecture-vlsi/images/pasted-image-20250308060553.png",
+      "dependencies": []
+    },
+    "reconfigurable-architecture-vlsi/images/pasted-image-20250308055918.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 1492800,
+      "exportedPath": "reconfigurable-architecture-vlsi/images/pasted-image-20250308055918.png",
+      "dependencies": []
+    },
+    "reconfigurable-architecture-vlsi/images/pasted-image-20250308054341.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 1297375,
+      "exportedPath": "reconfigurable-architecture-vlsi/images/pasted-image-20250308054341.png",
+      "dependencies": []
+    },
+    "reconfigurable-architecture-vlsi/images/pasted-image-20250308053709.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 2105987,
+      "exportedPath": "reconfigurable-architecture-vlsi/images/pasted-image-20250308053709.png",
+      "dependencies": []
+    },
+    "verilog/data-type-&-operations/images/logic-values.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 34119,
+      "exportedPath": "verilog/data-type-&-operations/images/logic-values.png",
+      "dependencies": []
+    },
+    "verilog/data-type-&-operations/images/nets_variables.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 8187,
+      "exportedPath": "verilog/data-type-&-operations/images/nets_variables.png",
+      "dependencies": []
+    },
+    "verilog/data-type-&-operations/images/wire.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 4949,
+      "exportedPath": "verilog/data-type-&-operations/images/wire.png",
+      "dependencies": []
+    },
+    "verilog/data-type-&-operations/images/reg-vector.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 9739,
+      "exportedPath": "verilog/data-type-&-operations/images/reg-vector.png",
+      "dependencies": []
+    },
+    "verilog/data-type-&-operations/images/variables.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 17611,
+      "exportedPath": "verilog/data-type-&-operations/images/variables.png",
+      "dependencies": []
+    },
+    "verilog/data-type-&-operations/images/identifiers.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 33692,
+      "exportedPath": "verilog/data-type-&-operations/images/identifiers.png",
+      "dependencies": []
+    },
+    "verilog/data-type-&-operations/images/scalar-vector.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 16317,
+      "exportedPath": "verilog/data-type-&-operations/images/scalar-vector.png",
+      "dependencies": []
+    },
+    "verilog/data-type-&-operations/images/bit-select.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 4834,
+      "exportedPath": "verilog/data-type-&-operations/images/bit-select.png",
+      "dependencies": []
+    },
+    "verilog/data-type-&-operations/images/part-select.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 9647,
+      "exportedPath": "verilog/data-type-&-operations/images/part-select.png",
+      "dependencies": []
+    },
+    "verilog/module/img/dff_module.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 8557,
+      "exportedPath": "verilog/module/img/dff_module.png",
+      "dependencies": []
+    },
+    "verilog/module/img/dff_sync_reset_schematic.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 27441,
+      "exportedPath": "verilog/module/img/dff_sync_reset_schematic.png",
+      "dependencies": []
+    },
+    "verilog/module/img/gpu_modules2.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 17017,
+      "exportedPath": "verilog/module/img/gpu_modules2.png",
+      "dependencies": []
+    },
+    "verilog/untitled/img/assign-combo.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 13004,
+      "exportedPath": "verilog/untitled/img/assign-combo.png",
+      "dependencies": []
+    },
+    "verilog/img/1representation.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 60218,
+      "exportedPath": "verilog/img/1representation.png",
+      "dependencies": []
+    },
+    "verilog/img/2representation.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 148614,
+      "exportedPath": "verilog/img/2representation.png",
+      "dependencies": []
+    },
+    "verilog/img/ydiagram.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 31770,
+      "exportedPath": "verilog/img/ydiagram.png",
+      "dependencies": []
+    },
+    "verilog/img/ripplecarryadderblocksvlsi.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 40480,
+      "exportedPath": "verilog/img/ripplecarryadderblocksvlsi.png",
+      "dependencies": []
+    },
+    "verilog/img/digitaliddedesignflow.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 61507,
+      "exportedPath": "verilog/img/digitaliddedesignflow.png",
+      "dependencies": []
+    },
+    "verilog/img/simpledesignflow.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 146435,
+      "exportedPath": "verilog/img/simpledesignflow.png",
+      "dependencies": []
+    },
+    "verilog/img/fpgarc.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 83286,
+      "exportedPath": "verilog/img/fpgarc.png",
+      "dependencies": []
+    },
+    "verilog/img/fpga_clb.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 76805,
+      "exportedPath": "verilog/img/fpga_clb.png",
+      "dependencies": []
+    },
+    "verilog/img/fpga_io.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 61087,
+      "exportedPath": "verilog/img/fpga_io.png",
+      "dependencies": []
+    },
+    "verilog/img/fpga_lut.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 79076,
+      "exportedPath": "verilog/img/fpga_lut.png",
+      "dependencies": []
+    },
+    "verilog/img/fpga_routing.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 35351,
+      "exportedPath": "verilog/img/fpga_routing.png",
+      "dependencies": []
+    },
+    "verilog/img/gatearray.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 202736,
+      "exportedPath": "verilog/img/gatearray.png",
+      "dependencies": []
+    },
+    "verilog/img/standardcelleg.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 55168,
+      "exportedPath": "verilog/img/standardcelleg.png",
+      "dependencies": []
+    },
+    "verilog/img/standardcelllayout.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 54597,
+      "exportedPath": "verilog/img/standardcelllayout.png",
+      "dependencies": []
+    },
+    "verilog/img/standardcelllayout1.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 167645,
+      "exportedPath": "verilog/img/standardcelllayout1.png",
+      "dependencies": []
+    },
+    "verilog/img/fullcustomdesign.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 276199,
+      "exportedPath": "verilog/img/fullcustomdesign.png",
+      "dependencies": []
+    },
+    "verilog/img/memory.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 15800,
+      "exportedPath": "verilog/img/memory.png",
+      "dependencies": []
+    },
+    "verilog/img/verilog_arrays_register_schematic.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 43041,
+      "exportedPath": "verilog/img/verilog_arrays_register_schematic.png",
+      "dependencies": []
+    },
+    "verilog/img/verilog_array_schematic.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 127954,
+      "exportedPath": "verilog/img/verilog_array_schematic.png",
+      "dependencies": []
+    },
+    "verilog/img/wire_tri_truth_table.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 4471,
+      "exportedPath": "verilog/img/wire_tri_truth_table.png",
+      "dependencies": []
+    },
+    "verilog/img/wor_trior_truth_table.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 4473,
+      "exportedPath": "verilog/img/wor_trior_truth_table.png",
+      "dependencies": []
+    },
+    "verilog/img/wand_triand_truth_table.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 4585,
+      "exportedPath": "verilog/img/wand_triand_truth_table.png",
+      "dependencies": []
+    },
+    "verilog/img/tri0_truth_table.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 4445,
+      "exportedPath": "verilog/img/tri0_truth_table.png",
+      "dependencies": []
+    },
+    "verilog/img/tri1_truth_table.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 4415,
+      "exportedPath": "verilog/img/tri1_truth_table.png",
+      "dependencies": []
+    },
+    "verilog/img/blockvlsidutsynthesis.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 58680,
+      "exportedPath": "verilog/img/blockvlsidutsynthesis.png",
+      "dependencies": []
+    },
+    "verilog/img/dut.png": {
+      "modifiedTime": 1752687771540,
+      "sourceSize": 41135,
+      "exportedPath": "verilog/img/dut.png",
+      "dependencies": []
+    },
+    "D3,js/Untitled.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 0,
+      "exportedPath": "d3,js/untitled.html",
+      "dependencies": []
+    },
+    "Eng/Narration.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 0,
+      "exportedPath": "eng/narration.html",
+      "dependencies": []
+    },
+    "Eng/Para Jumbles.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3273,
+      "exportedPath": "eng/para-jumbles.html",
+      "dependencies": []
+    },
+    "CN/img/1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 117649,
+      "exportedPath": "cn/img/1.png",
+      "dependencies": []
+    },
+    "CN/img/2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 80108,
+      "exportedPath": "cn/img/2.png",
+      "dependencies": []
+    },
+    "CN/img/3.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 54839,
+      "exportedPath": "cn/img/3.png",
+      "dependencies": []
+    },
+    "CN/img/4.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 49846,
+      "exportedPath": "cn/img/4.png",
+      "dependencies": []
+    },
+    "CN/img/5.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 62145,
+      "exportedPath": "cn/img/5.png",
+      "dependencies": []
+    },
+    "CN/img/6.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 66354,
+      "exportedPath": "cn/img/6.png",
+      "dependencies": []
+    },
+    "CN/img/7.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 50027,
+      "exportedPath": "cn/img/7.png",
+      "dependencies": []
+    },
+    "CN/img/8.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 25118,
+      "exportedPath": "cn/img/8.png",
+      "dependencies": []
+    },
+    "CN/img/9.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 82948,
+      "exportedPath": "cn/img/9.png",
+      "dependencies": []
+    },
+    "CN/img/10.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 47541,
+      "exportedPath": "cn/img/10.png",
+      "dependencies": []
+    },
+    "CN/img/11.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 43335,
+      "exportedPath": "cn/img/11.png",
+      "dependencies": []
+    },
+    "CN/img/12.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 74721,
+      "exportedPath": "cn/img/12.png",
+      "dependencies": []
+    },
+    "CN/img/CSMA1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 148533,
+      "exportedPath": "cn/img/csma1.png",
+      "dependencies": []
+    },
+    "CN/img/CSMA2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 84682,
+      "exportedPath": "cn/img/csma2.png",
+      "dependencies": []
+    },
+    "CN/img/CSMA3.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 74308,
+      "exportedPath": "cn/img/csma3.png",
+      "dependencies": []
+    },
+    "CN/img/CSMA4.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 84810,
+      "exportedPath": "cn/img/csma4.png",
+      "dependencies": []
+    },
+    "CN/img/CSMACD1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 129579,
+      "exportedPath": "cn/img/csmacd1.png",
+      "dependencies": []
+    },
+    "CN/img/CSMACD2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 33293,
+      "exportedPath": "cn/img/csmacd2.png",
+      "dependencies": []
+    },
+    "CN/img/CSMACD3.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 72008,
+      "exportedPath": "cn/img/csmacd3.png",
+      "dependencies": []
+    },
+    "CN/img/CSMACD4.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 52475,
+      "exportedPath": "cn/img/csmacd4.png",
+      "dependencies": []
+    },
+    "CN/img/Layeredexample.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 126275,
+      "exportedPath": "cn/img/layeredexample.png",
+      "dependencies": []
+    },
+    "CN/img/MultipleAccess.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 86379,
+      "exportedPath": "cn/img/multipleaccess.png",
+      "dependencies": []
+    },
+    "CN/img/OSI1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 104644,
+      "exportedPath": "cn/img/osi1.png",
+      "dependencies": []
+    },
+    "CN/img/OSI2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1009592,
+      "exportedPath": "cn/img/osi2.png",
+      "dependencies": []
+    },
+    "CN/img/OSI3.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 101244,
+      "exportedPath": "cn/img/osi3.png",
+      "dependencies": []
+    },
+    "CN/img/OSI11.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 61318,
+      "exportedPath": "cn/img/osi11.png",
+      "dependencies": []
+    },
+    "CN/img/OSI12.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 55342,
+      "exportedPath": "cn/img/osi12.png",
+      "dependencies": []
+    },
+    "CN/img/OSI13.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 137971,
+      "exportedPath": "cn/img/osi13.png",
+      "dependencies": []
+    },
+    "CN/img/OSI14.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 58460,
+      "exportedPath": "cn/img/osi14.png",
+      "dependencies": []
+    },
+    "CN/img/OSI15.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 119572,
+      "exportedPath": "cn/img/osi15.png",
+      "dependencies": []
+    },
+    "CN/img/OSI16.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 120656,
+      "exportedPath": "cn/img/osi16.png",
+      "dependencies": []
+    },
+    "CN/img/OSI17.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 65748,
+      "exportedPath": "cn/img/osi17.png",
+      "dependencies": []
+    },
+    "CN/img/OSI18.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 71607,
+      "exportedPath": "cn/img/osi18.png",
+      "dependencies": []
+    },
+    "CN/img/OSI19.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 55919,
+      "exportedPath": "cn/img/osi19.png",
+      "dependencies": []
+    },
+    "CN/img/OSI20.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 98000,
+      "exportedPath": "cn/img/osi20.png",
+      "dependencies": []
+    },
+    "CN/img/OSI21.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 155560,
+      "exportedPath": "cn/img/osi21.png",
+      "dependencies": []
+    },
+    "CN/img/Pasted image 20250222185456.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 26301,
+      "exportedPath": "cn/img/pasted-image-20250222185456.png",
+      "dependencies": []
+    },
+    "CN/img/Pasted image 20250223092151.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 52216,
+      "exportedPath": "cn/img/pasted-image-20250223092151.png",
+      "dependencies": []
+    },
+    "CN/img/Pasted image 20250228090351.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 369940,
+      "exportedPath": "cn/img/pasted-image-20250228090351.png",
+      "dependencies": []
+    },
+    "CN/img/PureALOHA1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 111650,
+      "exportedPath": "cn/img/purealoha1.png",
+      "dependencies": []
+    },
+    "CN/img/PureALOHA2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 119391,
+      "exportedPath": "cn/img/purealoha2.png",
+      "dependencies": []
+    },
+    "CN/img/Screenshot 2025-02-23 091952.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 52216,
+      "exportedPath": "cn/img/screenshot-2025-02-23-091952.png",
+      "dependencies": []
+    },
+    "CN/img/Screenshot 2025-02-23 092436.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 327141,
+      "exportedPath": "cn/img/screenshot-2025-02-23-092436.png",
+      "dependencies": []
+    },
+    "CN/img/SlottedALOHA1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 116724,
+      "exportedPath": "cn/img/slottedaloha1.png",
+      "dependencies": []
+    },
+    "CN/img/SlottedALOHA2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 51209,
+      "exportedPath": "cn/img/slottedaloha2.png",
+      "dependencies": []
+    },
+    "CN/img/TCPHeader.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 68690,
+      "exportedPath": "cn/img/tcpheader.png",
+      "dependencies": []
+    },
+    "CN/img/TCPHeaderFlags.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 79402,
+      "exportedPath": "cn/img/tcpheaderflags.png",
+      "dependencies": []
+    },
+    "CN/img/TCPsegmentflow.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 104878,
+      "exportedPath": "cn/img/tcpsegmentflow.png",
+      "dependencies": []
+    },
+    "CN/img/Topologies.jpg": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 295888,
+      "exportedPath": "cn/img/topologies.jpg",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/Emailaddress.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 24764,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailaddress.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/EmailArct.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 123780,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailarct.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/EmailEg1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 62550,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emaileg1.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/EmailEg2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 75694,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emaileg2.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/EmailEgcookie.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 76775,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailegcookie.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/EmailMessageStruct.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 192065,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailmessagestruct.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/EmailNONPersistent.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 128179,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailnonpersistent.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/EmailPersistent.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 134418,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailpersistent.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/EmailProtocol.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 70711,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailprotocol.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/EmailUserAgent.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 13368,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailuseragent.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/EmailWorkingBrowser.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 44893,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailworkingbrowser.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/FTP.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 70634,
+      "exportedPath": "cn/standard-clint-service-protocols/img/ftp.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/FTPcmd.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 467299,
+      "exportedPath": "cn/standard-clint-service-protocols/img/ftpcmd.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/FTPEg.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 87240,
+      "exportedPath": "cn/standard-clint-service-protocols/img/ftpeg.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/HTTPEg1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 91198,
+      "exportedPath": "cn/standard-clint-service-protocols/img/httpeg1.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/HTTPEg2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 85121,
+      "exportedPath": "cn/standard-clint-service-protocols/img/httpeg2.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/HTTPProxy.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 58813,
+      "exportedPath": "cn/standard-clint-service-protocols/img/httpproxy.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/HTTPstruct.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 108080,
+      "exportedPath": "cn/standard-clint-service-protocols/img/httpstruct.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/MIME5.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 39081,
+      "exportedPath": "cn/standard-clint-service-protocols/img/mime5.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/MIMS1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 84030,
+      "exportedPath": "cn/standard-clint-service-protocols/img/mims1.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/MIMS2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 335759,
+      "exportedPath": "cn/standard-clint-service-protocols/img/mims2.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/MIMS3.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 108165,
+      "exportedPath": "cn/standard-clint-service-protocols/img/mims3.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/MIMS4.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 46212,
+      "exportedPath": "cn/standard-clint-service-protocols/img/mims4.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/Telnet.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 88985,
+      "exportedPath": "cn/standard-clint-service-protocols/img/telnet.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/Telnet_NVT.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 70573,
+      "exportedPath": "cn/standard-clint-service-protocols/img/telnet_nvt.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/img/WebEmail.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 162793,
+      "exportedPath": "cn/standard-clint-service-protocols/img/webemail.png",
+      "dependencies": []
+    },
+    "CN/Standard Clint Service Protocols/Email.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 16125,
+      "exportedPath": "cn/standard-clint-service-protocols/email.html",
+      "dependencies": [
+        "cn/standard-clint-service-protocols/img/emailarct.png",
+        "cn/standard-clint-service-protocols/img/emailuseragent.png",
+        "cn/standard-clint-service-protocols/img/emailmessagestruct.png",
+        "cn/standard-clint-service-protocols/img/emailprotocol.png",
+        "cn/standard-clint-service-protocols/img/mime5.png",
+        "cn/standard-clint-service-protocols/img/mims4.png",
+        "cn/standard-clint-service-protocols/img/mims1.png",
+        "cn/standard-clint-service-protocols/img/mims3.png",
+        "cn/standard-clint-service-protocols/img/mims2.png",
+        "cn/standard-clint-service-protocols/img/webemail.png",
+        "cn/standard-clint-service-protocols/img/emailaddress.png",
+        "cn/standard-clint-service-protocols/img/emaileg1.png",
+        "cn/standard-clint-service-protocols/img/emaileg2.png"
+      ]
+    },
+    "CN/Standard Clint Service Protocols/FTP.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 11827,
+      "exportedPath": "cn/standard-clint-service-protocols/ftp.html",
+      "dependencies": [
+        "cn/standard-clint-service-protocols/img/ftp.png",
+        "cn/standard-clint-service-protocols/img/ftpeg.png",
+        "cn/standard-clint-service-protocols/img/ftpcmd.png"
+      ]
+    },
+    "CN/Standard Clint Service Protocols/HTTPstructureexp.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 2561,
+      "exportedPath": "cn/standard-clint-service-protocols/httpstructureexp.html",
+      "dependencies": [
+        "cn/standard-clint-service-protocols/img/httpstruct.png"
+      ]
+    },
+    "CN/Standard Clint Service Protocols/Telnet.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 4088,
+      "exportedPath": "cn/standard-clint-service-protocols/telnet.html",
+      "dependencies": [
+        "cn/standard-clint-service-protocols/img/telnet.png",
+        "cn/standard-clint-service-protocols/img/telnet_nvt.png"
+      ]
+    },
+    "CN/Standard Clint Service Protocols/WWW HTTP.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 15575,
+      "exportedPath": "cn/standard-clint-service-protocols/www-http.html",
+      "dependencies": [
+        "cn/standard-clint-service-protocols/img/emailworkingbrowser.png",
+        "cn/standard-clint-service-protocols/img/emailnonpersistent.png",
+        "cn/standard-clint-service-protocols/img/emailpersistent.png",
+        "cn/standard-clint-service-protocols/img/httpproxy.png",
+        "cn/standard-clint-service-protocols/img/httpstruct.png",
+        "cn/standard-clint-service-protocols/img/httpeg2.png",
+        "cn/standard-clint-service-protocols/img/httpeg1.png",
+        "cn/standard-clint-service-protocols/img/emailegcookie.png"
+      ]
+    },
+    "CN/Untitled/01 UPLOADED Chapter 1- Introduction.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 440320,
+      "exportedPath": "cn/untitled/01-uploaded-chapter-1-introduction.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/2standards-and-protocols.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 2401280,
+      "exportedPath": "cn/untitled/2standards-and-protocols.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/3.6 Dijkstra Algorithm - Single Source Shortest Path - Greedy Method.mp4": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 80460334,
+      "exportedPath": "cn/untitled/3.6-dijkstra-algorithm-single-source-shortest-path-greedy-method.mp4",
+      "dependencies": []
+    },
+    "CN/Untitled/20-22 Network Layer Design Issues - upload.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3023872,
+      "exportedPath": "cn/untitled/20-22-network-layer-design-issues-upload.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/audio video compression.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3233280,
+      "exportedPath": "cn/untitled/audio-video-compression.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/ch21 upload.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1217536,
+      "exportedPath": "cn/untitled/ch21-upload.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/Connecting LANs UPLOAD.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 802816,
+      "exportedPath": "cn/untitled/connecting-lans-upload.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/Data Communications and Networking – Behrouz A. Forouzan.fourth edition[A4].pdf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 11370452,
+      "exportedPath": "cn/untitled/data-communications-and-networking-–-behrouz-a.-forouzan.fourth-edition[a4].pdf",
+      "dependencies": []
+    },
+    "CN/Untitled/DISTANCE VECTOR ROUTING - PART-2.mp4": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 34304142,
+      "exportedPath": "cn/untitled/distance-vector-routing-part-2.mp4",
+      "dependencies": []
+    },
+    "CN/Untitled/frmCourseSyllabusIPDownload.pdf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 146656,
+      "exportedPath": "cn/untitled/frmcoursesyllabusipdownload.pdf",
+      "dependencies": []
+    },
+    "CN/Untitled/ICMP upload.pdf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 376279,
+      "exportedPath": "cn/untitled/icmp-upload.pdf",
+      "dependencies": []
+    },
+    "CN/Untitled/lect 5 chapt 2 transmission media upload.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 2054144,
+      "exportedPath": "cn/untitled/lect-5-chapt-2-transmission-media-upload.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/lecture 6 chapter 2 line coding upload.pptx": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1390258,
+      "exportedPath": "cn/untitled/lecture-6-chapter-2-line-coding-upload.pptx",
+      "dependencies": []
+    },
+    "CN/Untitled/lecture 16 [Autosaved]upload.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 2551296,
+      "exportedPath": "cn/untitled/lecture-16-[autosaved]upload.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/lecture Multiple Access upload 14.2.2021.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1267200,
+      "exportedPath": "cn/untitled/lecture-multiple-access-upload-14.2.2021.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/updated 22a (Process to process delivery (UDP and TCP)) 121 slides.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 2358272,
+      "exportedPath": "cn/untitled/updated-22a-(process-to-process-delivery-(udp-and-tcp))-121-slides.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/upload 03 Analog and Digital Transmission.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1733632,
+      "exportedPath": "cn/untitled/upload-03-analog-and-digital-transmission.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/upload 04 Layered Architecture of Computer Networks OSI and TCPIP Model Lecture 5.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1722368,
+      "exportedPath": "cn/untitled/upload-04-layered-architecture-of-computer-networks-osi-and-tcpip-model-lecture-5.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/UPLOAD 26 (SMTP and FTP) 76 slides.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1176064,
+      "exportedPath": "cn/untitled/upload-26-(smtp-and-ftp)-76-slides.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/UPLOAD ch26 UPDATED.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 9571840,
+      "exportedPath": "cn/untitled/upload-ch26-updated.ppt",
+      "dependencies": []
+    },
+    "CN/Untitled/zerolecture ECE416.pdf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3595767,
+      "exportedPath": "cn/untitled/zerolecture-ece416.pdf",
+      "dependencies": []
+    },
+    "CN/CSMA.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 4741,
+      "exportedPath": "cn/csma.html",
+      "dependencies": [
+        "cn/img/csma1.png",
+        "cn/img/csma2.png",
+        "cn/img/csma3.png",
+        "cn/img/csma4.png"
+      ]
+    },
+    "CN/CSMACD.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 5710,
+      "exportedPath": "cn/csmacd.html",
+      "dependencies": [
+        "cn/img/csmacd2.png",
+        "cn/img/csmacd4.png",
+        "cn/img/csmacd1.png",
+        "cn/img/csmacd3.png"
+      ]
+    },
+    "CN/DataCommunication.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 4186,
+      "exportedPath": "cn/datacommunication.html",
+      "dependencies": []
+    },
+    "CN/OSI.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 12418,
+      "exportedPath": "cn/osi.html",
+      "dependencies": [
+        "cn/img/osi11.png",
+        "cn/img/osi12.png",
+        "cn/img/osi13.png",
+        "cn/img/osi14.png",
+        "cn/img/osi15.png",
+        "cn/img/osi16.png",
+        "cn/img/osi17.png",
+        "cn/img/osi18.png",
+        "cn/img/osi19.png",
+        "cn/img/osi20.png",
+        "cn/img/osi21.png"
+      ]
+    },
+    "CN/Process-To-Process.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 10440,
+      "exportedPath": "cn/process-to-process.html",
+      "dependencies": [
+        "cn/img/1.png",
+        "cn/img/4.png",
+        "cn/img/3.png",
+        "cn/img/8.png",
+        "cn/img/9.png",
+        "cn/img/2.png",
+        "cn/img/5.png",
+        "cn/img/7.png",
+        "cn/img/6.png"
+      ]
+    },
+    "CN/PureALOHA.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 4083,
+      "exportedPath": "cn/purealoha.html",
+      "dependencies": [
+        "cn/img/purealoha1.png",
+        "cn/img/purealoha2.png"
+      ]
+    },
+    "CN/RandomAccess.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 4252,
+      "exportedPath": "cn/randomaccess.html",
+      "dependencies": []
+    },
+    "CN/SlottedALOHA.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3681,
+      "exportedPath": "cn/slottedaloha.html",
+      "dependencies": [
+        "cn/img/slottedaloha1.png",
+        "cn/img/slottedaloha2.png"
+      ]
+    },
+    "CN/TCP.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 16754,
+      "exportedPath": "cn/tcp.html",
+      "dependencies": [
+        "cn/img/11.png",
+        "cn/img/12.png",
+        "cn/img/tcpsegmentflow.png",
+        "cn/img/tcpheader.png",
+        "cn/img/tcpheaderflags.png"
+      ]
+    },
+    "CN/TCP IP.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 10201,
+      "exportedPath": "cn/tcp-ip.html",
+      "dependencies": []
+    },
+    "CN/Topologies.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 9999,
+      "exportedPath": "cn/topologies.html",
+      "dependencies": [
+        "cn/img/topologies.jpg"
+      ]
+    },
+    "CN/UDP.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 2808,
+      "exportedPath": "cn/udp.html",
+      "dependencies": [
+        "cn/img/10.png",
+        "cn/img/9.png"
+      ]
+    },
+    "CN/Untitled.canvas": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 2895,
+      "exportedPath": "cn/untitled.html",
+      "dependencies": [
+        "cn/standard-clint-service-protocols/img/emailworkingbrowser.png",
+        "cn/standard-clint-service-protocols/img/emailnonpersistent.png",
+        "cn/standard-clint-service-protocols/img/emailpersistent.png",
+        "cn/standard-clint-service-protocols/img/httpproxy.png",
+        "cn/standard-clint-service-protocols/img/httpstruct.png",
+        "cn/standard-clint-service-protocols/img/httpeg2.png",
+        "cn/standard-clint-service-protocols/img/httpeg1.png",
+        "cn/standard-clint-service-protocols/img/emailegcookie.png",
+        "cn/standard-clint-service-protocols/img/httpstruct.png",
+        "cn/standard-clint-service-protocols/img/telnet.png",
+        "cn/standard-clint-service-protocols/img/telnet_nvt.png",
+        "cn/standard-clint-service-protocols/img/emailarct.png",
+        "cn/standard-clint-service-protocols/img/emailuseragent.png",
+        "cn/standard-clint-service-protocols/img/emailmessagestruct.png",
+        "cn/standard-clint-service-protocols/img/emailprotocol.png",
+        "cn/standard-clint-service-protocols/img/mime5.png",
+        "cn/standard-clint-service-protocols/img/mims4.png",
+        "cn/standard-clint-service-protocols/img/mims1.png",
+        "cn/standard-clint-service-protocols/img/mims3.png",
+        "cn/standard-clint-service-protocols/img/mims2.png",
+        "cn/standard-clint-service-protocols/img/webemail.png",
+        "cn/standard-clint-service-protocols/img/emailaddress.png",
+        "cn/standard-clint-service-protocols/img/emaileg1.png",
+        "cn/standard-clint-service-protocols/img/emaileg2.png",
+        "cn/standard-clint-service-protocols/img/ftp.png",
+        "cn/standard-clint-service-protocols/img/ftpeg.png",
+        "cn/standard-clint-service-protocols/img/ftpcmd.png",
+        "cn/standard-clint-service-protocols/img/ftp.png",
+        "cn/standard-clint-service-protocols/img/ftpeg.png",
+        "cn/standard-clint-service-protocols/img/ftpcmd.png",
+        "cn/img/10.png",
+        "cn/img/9.png",
+        "cn/img/11.png",
+        "cn/img/12.png",
+        "cn/img/tcpsegmentflow.png",
+        "cn/img/tcpheader.png",
+        "cn/img/tcpheaderflags.png",
+        "cn/img/1.png",
+        "cn/img/4.png",
+        "cn/img/3.png",
+        "cn/img/8.png",
+        "cn/img/9.png",
+        "cn/img/2.png",
+        "cn/img/5.png",
+        "cn/img/7.png",
+        "cn/img/6.png"
+      ]
+    },
+    "CN/Untitled 1.canvas": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 10872,
+      "exportedPath": "cn/untitled-1.html",
+      "dependencies": [
+        "cn/img/topologies.jpg",
+        "cn/img/osi1.png",
+        "cn/img/osi2.png",
+        "cn/img/osi3.png",
+        "cn/img/osi11.png",
+        "cn/img/osi12.png",
+        "cn/img/osi13.png",
+        "cn/img/osi14.png",
+        "cn/img/osi15.png",
+        "cn/img/osi16.png",
+        "cn/img/osi17.png",
+        "cn/img/osi18.png",
+        "cn/img/osi19.png",
+        "cn/img/osi20.png",
+        "cn/img/osi21.png",
+        "cn/img/layeredexample.png",
+        "cn/img/csmacd2.png",
+        "cn/img/csmacd4.png",
+        "cn/img/csmacd1.png",
+        "cn/img/csmacd3.png",
+        "cn/img/purealoha1.png",
+        "cn/img/purealoha2.png",
+        "cn/img/csma1.png",
+        "cn/img/csma2.png",
+        "cn/img/csma3.png",
+        "cn/img/csma4.png",
+        "cn/img/slottedaloha1.png",
+        "cn/img/slottedaloha2.png",
+        "cn/img/multipleaccess.png"
+      ]
+    },
+    "Java/New folder/03. Variables and Data Types (1).pptx": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 176122,
+      "exportedPath": "java/new-folder/03.-variables-and-data-types-(1).pptx",
+      "dependencies": []
+    },
+    "Java/New folder/04. Operators.pptx": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 394062,
+      "exportedPath": "java/new-folder/04.-operators.pptx",
+      "dependencies": []
+    },
+    "Java/New folder/05. Control Structures.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 379392,
+      "exportedPath": "java/new-folder/05.-control-structures.ppt",
+      "dependencies": []
+    },
+    "Java/New folder/07. Array and Enum.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 681984,
+      "exportedPath": "java/new-folder/07.-array-and-enum.ppt",
+      "dependencies": []
+    },
+    "Java/New folder/09. ArrayList.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 337408,
+      "exportedPath": "java/new-folder/09.-arraylist.ppt",
+      "dependencies": []
+    },
+    "Java/New folder/10. Methods and Constructors.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 352256,
+      "exportedPath": "java/new-folder/10.-methods-and-constructors.ppt",
+      "dependencies": []
+    },
+    "Java/New folder/11. this, final, super and static keywords.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 650752,
+      "exportedPath": "java/new-folder/11.-this,-final,-super-and-static-keywords.ppt",
+      "dependencies": []
+    },
+    "Java/New folder/12. Abstract Class and Interface.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 695296,
+      "exportedPath": "java/new-folder/12.-abstract-class-and-interface.ppt",
+      "dependencies": []
+    },
+    "Java/New folder/13. String Handling(String Class).pptx": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 196976,
+      "exportedPath": "java/new-folder/13.-string-handling(string-class).pptx",
+      "dependencies": []
+    },
+    "Java/New folder/Assertion.ppt": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 617984,
+      "exportedPath": "java/new-folder/assertion.ppt",
+      "dependencies": []
+    },
+    "Java/New folder/Exception Handling.pptx": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 311706,
+      "exportedPath": "java/new-folder/exception-handling.pptx",
+      "dependencies": []
+    },
+    "Java/New folder/frmCourseSyllabusIPDownload.pdf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 196575,
+      "exportedPath": "java/new-folder/frmcoursesyllabusipdownload.pdf",
+      "dependencies": []
+    },
+    "Java/New folder/Inheritance.pptx": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1099909,
+      "exportedPath": "java/new-folder/inheritance.pptx",
+      "dependencies": []
+    },
+    "Java/New folder/Input output ppt .pptx": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 405536,
+      "exportedPath": "java/new-folder/input-output-ppt-.pptx/input-output-ppt-.pptx.pptx",
+      "dependencies": []
+    },
+    "Java/New folder/Interfaces and Lambda Expressions .pptx": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 279893,
+      "exportedPath": "java/new-folder/interfaces-and-lambda-expressions-.pptx/interfaces-and-lambda-expressions-.pptx.pptx",
+      "dependencies": []
+    },
+    "Java/New folder/Java practise qns.pdf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 366194,
+      "exportedPath": "java/new-folder/java-practise-qns.pdf",
+      "dependencies": []
+    },
+    "Java/New folder/lect_2.pptx": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 636993,
+      "exportedPath": "java/new-folder/lect_2.pptx",
+      "dependencies": []
+    },
+    "Java/New folder/Polymorphism in java.pptx": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 71490,
+      "exportedPath": "java/new-folder/polymorphism-in-java.pptx",
+      "dependencies": []
+    },
+    "Java/New folder/zeroLect_CSE380.pptx": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 633790,
+      "exportedPath": "java/new-folder/zerolect_cse380.pptx",
+      "dependencies": []
+    },
+    "Java/arrayLength.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 2739,
+      "exportedPath": "java/arraylength.html",
+      "dependencies": []
+    },
+    "Java/Arrays.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 5170,
+      "exportedPath": "java/arrays.html",
+      "dependencies": []
+    },
+    "Java/Assertion.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 4742,
+      "exportedPath": "java/assertion.html",
+      "dependencies": []
+    },
+    "Java/Classes.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 5719,
+      "exportedPath": "java/classes.html",
+      "dependencies": []
+    },
+    "Java/Constructor.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 6847,
+      "exportedPath": "java/constructor.html",
+      "dependencies": []
+    },
+    "Java/ContructorChainingWithSuper.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3837,
+      "exportedPath": "java/contructorchainingwithsuper.html",
+      "dependencies": []
+    },
+    "Java/ContructorChainingWithThis.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 2374,
+      "exportedPath": "java/contructorchainingwiththis.html",
+      "dependencies": []
+    },
+    "Java/Default values.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 2559,
+      "exportedPath": "java/default-values.html",
+      "dependencies": []
+    },
+    "Java/Enums.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3732,
+      "exportedPath": "java/enums.html",
+      "dependencies": []
+    },
+    "Java/EnumsScope.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3038,
+      "exportedPath": "java/enumsscope.html",
+      "dependencies": []
+    },
+    "Java/Exception and Assertion MCQs.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 11158,
+      "exportedPath": "java/exception-and-assertion-mcqs.html",
+      "dependencies": []
+    },
+    "Java/Exception Handeling.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 15438,
+      "exportedPath": "java/exception-handeling.html",
+      "dependencies": []
+    },
+    "Java/FinalKeyword.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3428,
+      "exportedPath": "java/finalkeyword.html",
+      "dependencies": []
+    },
+    "Java/functionPassingValues.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 4508,
+      "exportedPath": "java/functionpassingvalues.html",
+      "dependencies": []
+    },
+    "Java/Instanceof.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 7016,
+      "exportedPath": "java/instanceof.html",
+      "dependencies": []
+    },
+    "Java/Interfaces.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 6383,
+      "exportedPath": "java/interfaces.html",
+      "dependencies": []
+    },
+    "Java/Interfaces and Lambda.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 8185,
+      "exportedPath": "java/interfaces-and-lambda.html",
+      "dependencies": []
+    },
+    "Java/Introduction To Java.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3781,
+      "exportedPath": "java/introduction-to-java.html",
+      "dependencies": []
+    },
+    "Java/Java IO.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 6021,
+      "exportedPath": "java/java-io.html",
+      "dependencies": []
+    },
+    "Java/Java Syntax.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1548,
+      "exportedPath": "java/java-syntax.html",
+      "dependencies": []
+    },
+    "Java/Javaa.canvas": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 34593,
+      "exportedPath": "java/javaa.html",
+      "dependencies": [
+        "java/takinginput_scanner_methods.png",
+        "java/mcq_string.png"
+      ]
+    },
+    "Java/Loops.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 8743,
+      "exportedPath": "java/loops.html",
+      "dependencies": []
+    },
+    "Java/mcq_string.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 25359,
+      "exportedPath": "java/mcq_string.png",
+      "dependencies": []
+    },
+    "Java/Methods.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 4914,
+      "exportedPath": "java/methods.html",
+      "dependencies": []
+    },
+    "Java/more about static.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1148,
+      "exportedPath": "java/more-about-static.html",
+      "dependencies": []
+    },
+    "Java/Operators and Precedence.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 2138,
+      "exportedPath": "java/operators-and-precedence.html",
+      "dependencies": []
+    },
+    "Java/Polymorphism.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 4866,
+      "exportedPath": "java/polymorphism.html",
+      "dependencies": []
+    },
+    "Java/ShortCircuitLogicalOperators.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 2852,
+      "exportedPath": "java/shortcircuitlogicaloperators.html",
+      "dependencies": []
+    },
+    "Java/StaticKeyword.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3711,
+      "exportedPath": "java/statickeyword.html",
+      "dependencies": []
+    },
+    "Java/StringcompareTo().md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 5611,
+      "exportedPath": "java/stringcompareto().html",
+      "dependencies": []
+    },
+    "Java/StringConcat.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1520,
+      "exportedPath": "java/stringconcat.html",
+      "dependencies": []
+    },
+    "Java/StringConstructor.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3145,
+      "exportedPath": "java/stringconstructor.html",
+      "dependencies": []
+    },
+    "Java/StringgetChars().md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3892,
+      "exportedPath": "java/stringgetchars().html",
+      "dependencies": []
+    },
+    "Java/StringMethods.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 4112,
+      "exportedPath": "java/stringmethods.html",
+      "dependencies": []
+    },
+    "Java/Strings.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3492,
+      "exportedPath": "java/strings.html",
+      "dependencies": []
+    },
+    "Java/Stringsplit().md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 2279,
+      "exportedPath": "java/stringsplit().html",
+      "dependencies": []
+    },
+    "Java/SuperKeyword.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 5021,
+      "exportedPath": "java/superkeyword.html",
+      "dependencies": []
+    },
+    "Java/Taking Input.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 6503,
+      "exportedPath": "java/taking-input.html",
+      "dependencies": [
+        "java/takinginput_scanner_methods.png"
+      ]
+    },
+    "Java/TakingInput_scanner_methods.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 297814,
+      "exportedPath": "java/takinginput_scanner_methods.png",
+      "dependencies": []
+    },
+    "Java/ThisKeyword.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3604,
+      "exportedPath": "java/thiskeyword.html",
+      "dependencies": []
+    },
+    "maths/gaphs.pdf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 10769694,
+      "exportedPath": "maths/gaphs.pdf",
+      "dependencies": []
+    },
+    "maths/index.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 36,
+      "exportedPath": "maths/index.html",
+      "dependencies": []
+    },
+    "maths/MTH_Unit IV_mcq.pdf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1341652,
+      "exportedPath": "maths/mth_unit-iv_mcq.pdf",
+      "dependencies": []
+    },
+    "maths/Rosen_Discrete_Mathematics_and_Its_Applications_7th_Edition.pdf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 37978234,
+      "exportedPath": "maths/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf",
+      "dependencies": []
+    },
+    "maths/trees.pdf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 3531884,
+      "exportedPath": "maths/trees.pdf",
+      "dependencies": []
+    },
+    "maths/Untitled.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 0,
+      "exportedPath": "maths/untitled.html",
+      "dependencies": []
+    },
+    "maths/wi.pdf": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 218664,
+      "exportedPath": "maths/wi.pdf",
+      "dependencies": []
+    },
+    "Index.md": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 0,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/emailarct.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 123780,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailarct.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/emailuseragent.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 13368,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailuseragent.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/emailmessagestruct.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 192065,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailmessagestruct.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/emailprotocol.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 70711,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailprotocol.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/mime5.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 39081,
+      "exportedPath": "cn/standard-clint-service-protocols/img/mime5.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/mims4.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 46212,
+      "exportedPath": "cn/standard-clint-service-protocols/img/mims4.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/mims1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 84030,
+      "exportedPath": "cn/standard-clint-service-protocols/img/mims1.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/mims3.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 108165,
+      "exportedPath": "cn/standard-clint-service-protocols/img/mims3.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/mims2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 335759,
+      "exportedPath": "cn/standard-clint-service-protocols/img/mims2.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/webemail.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 162793,
+      "exportedPath": "cn/standard-clint-service-protocols/img/webemail.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/emailaddress.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 24764,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailaddress.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/emaileg1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 62550,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emaileg1.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/emaileg2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 75694,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emaileg2.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/ftp.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 70634,
+      "exportedPath": "cn/standard-clint-service-protocols/img/ftp.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/ftpeg.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 87240,
+      "exportedPath": "cn/standard-clint-service-protocols/img/ftpeg.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/ftpcmd.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 467299,
+      "exportedPath": "cn/standard-clint-service-protocols/img/ftpcmd.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/httpstruct.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 108080,
+      "exportedPath": "cn/standard-clint-service-protocols/img/httpstruct.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/telnet.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 88985,
+      "exportedPath": "cn/standard-clint-service-protocols/img/telnet.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/telnet_nvt.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 70573,
+      "exportedPath": "cn/standard-clint-service-protocols/img/telnet_nvt.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/emailworkingbrowser.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 44893,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailworkingbrowser.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/emailnonpersistent.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 128179,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailnonpersistent.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/emailpersistent.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 134418,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailpersistent.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/httpproxy.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 58813,
+      "exportedPath": "cn/standard-clint-service-protocols/img/httpproxy.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/httpeg2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 85121,
+      "exportedPath": "cn/standard-clint-service-protocols/img/httpeg2.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/httpeg1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 91198,
+      "exportedPath": "cn/standard-clint-service-protocols/img/httpeg1.png",
+      "dependencies": []
+    },
+    "cn/standard-clint-service-protocols/img/emailegcookie.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 76775,
+      "exportedPath": "cn/standard-clint-service-protocols/img/emailegcookie.png",
+      "dependencies": []
+    },
+    "cn/img/csma1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 148533,
+      "exportedPath": "cn/img/csma1.png",
+      "dependencies": []
+    },
+    "cn/img/csma2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 84682,
+      "exportedPath": "cn/img/csma2.png",
+      "dependencies": []
+    },
+    "cn/img/csma3.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 74308,
+      "exportedPath": "cn/img/csma3.png",
+      "dependencies": []
+    },
+    "cn/img/csma4.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 84810,
+      "exportedPath": "cn/img/csma4.png",
+      "dependencies": []
+    },
+    "cn/img/csmacd2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 33293,
+      "exportedPath": "cn/img/csmacd2.png",
+      "dependencies": []
+    },
+    "cn/img/csmacd4.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 52475,
+      "exportedPath": "cn/img/csmacd4.png",
+      "dependencies": []
+    },
+    "cn/img/csmacd1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 129579,
+      "exportedPath": "cn/img/csmacd1.png",
+      "dependencies": []
+    },
+    "cn/img/csmacd3.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 72008,
+      "exportedPath": "cn/img/csmacd3.png",
+      "dependencies": []
+    },
+    "cn/img/osi11.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 61318,
+      "exportedPath": "cn/img/osi11.png",
+      "dependencies": []
+    },
+    "cn/img/osi12.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 55342,
+      "exportedPath": "cn/img/osi12.png",
+      "dependencies": []
+    },
+    "cn/img/osi13.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 137971,
+      "exportedPath": "cn/img/osi13.png",
+      "dependencies": []
+    },
+    "cn/img/osi14.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 58460,
+      "exportedPath": "cn/img/osi14.png",
+      "dependencies": []
+    },
+    "cn/img/osi15.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 119572,
+      "exportedPath": "cn/img/osi15.png",
+      "dependencies": []
+    },
+    "cn/img/osi16.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 120656,
+      "exportedPath": "cn/img/osi16.png",
+      "dependencies": []
+    },
+    "cn/img/osi17.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 65748,
+      "exportedPath": "cn/img/osi17.png",
+      "dependencies": []
+    },
+    "cn/img/osi18.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 71607,
+      "exportedPath": "cn/img/osi18.png",
+      "dependencies": []
+    },
+    "cn/img/osi19.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 55919,
+      "exportedPath": "cn/img/osi19.png",
+      "dependencies": []
+    },
+    "cn/img/osi20.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 98000,
+      "exportedPath": "cn/img/osi20.png",
+      "dependencies": []
+    },
+    "cn/img/osi21.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 155560,
+      "exportedPath": "cn/img/osi21.png",
+      "dependencies": []
+    },
+    "cn/img/1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 117649,
+      "exportedPath": "cn/img/1.png",
+      "dependencies": []
+    },
+    "cn/img/4.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 49846,
+      "exportedPath": "cn/img/4.png",
+      "dependencies": []
+    },
+    "cn/img/3.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 54839,
+      "exportedPath": "cn/img/3.png",
+      "dependencies": []
+    },
+    "cn/img/8.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 25118,
+      "exportedPath": "cn/img/8.png",
+      "dependencies": []
+    },
+    "cn/img/9.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 82948,
+      "exportedPath": "cn/img/9.png",
+      "dependencies": []
+    },
+    "cn/img/2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 80108,
+      "exportedPath": "cn/img/2.png",
+      "dependencies": []
+    },
+    "cn/img/5.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 62145,
+      "exportedPath": "cn/img/5.png",
+      "dependencies": []
+    },
+    "cn/img/7.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 50027,
+      "exportedPath": "cn/img/7.png",
+      "dependencies": []
+    },
+    "cn/img/6.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 66354,
+      "exportedPath": "cn/img/6.png",
+      "dependencies": []
+    },
+    "cn/img/purealoha1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 111650,
+      "exportedPath": "cn/img/purealoha1.png",
+      "dependencies": []
+    },
+    "cn/img/purealoha2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 119391,
+      "exportedPath": "cn/img/purealoha2.png",
+      "dependencies": []
+    },
+    "cn/img/slottedaloha1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 116724,
+      "exportedPath": "cn/img/slottedaloha1.png",
+      "dependencies": []
+    },
+    "cn/img/slottedaloha2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 51209,
+      "exportedPath": "cn/img/slottedaloha2.png",
+      "dependencies": []
+    },
+    "cn/img/11.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 43335,
+      "exportedPath": "cn/img/11.png",
+      "dependencies": []
+    },
+    "cn/img/12.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 74721,
+      "exportedPath": "cn/img/12.png",
+      "dependencies": []
+    },
+    "cn/img/tcpsegmentflow.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 104878,
+      "exportedPath": "cn/img/tcpsegmentflow.png",
+      "dependencies": []
+    },
+    "cn/img/tcpheader.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 68690,
+      "exportedPath": "cn/img/tcpheader.png",
+      "dependencies": []
+    },
+    "cn/img/tcpheaderflags.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 79402,
+      "exportedPath": "cn/img/tcpheaderflags.png",
+      "dependencies": []
+    },
+    "cn/img/topologies.jpg": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 295888,
+      "exportedPath": "cn/img/topologies.jpg",
+      "dependencies": []
+    },
+    "cn/img/10.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 47541,
+      "exportedPath": "cn/img/10.png",
+      "dependencies": []
+    },
+    "cn/img/osi1.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 104644,
+      "exportedPath": "cn/img/osi1.png",
+      "dependencies": []
+    },
+    "cn/img/osi2.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 1009592,
+      "exportedPath": "cn/img/osi2.png",
+      "dependencies": []
+    },
+    "cn/img/osi3.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 101244,
+      "exportedPath": "cn/img/osi3.png",
+      "dependencies": []
+    },
+    "cn/img/layeredexample.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 126275,
+      "exportedPath": "cn/img/layeredexample.png",
+      "dependencies": []
+    },
+    "cn/img/multipleaccess.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 86379,
+      "exportedPath": "cn/img/multipleaccess.png",
+      "dependencies": []
+    },
+    "java/takinginput_scanner_methods.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 297814,
+      "exportedPath": "java/takinginput_scanner_methods.png",
+      "dependencies": []
+    },
+    "java/mcq_string.png": {
+      "modifiedTime": 1752719382870,
+      "sourceSize": 25359,
+      "exportedPath": "java/mcq_string.png",
+      "dependencies": []
+    }
+  }
+}
