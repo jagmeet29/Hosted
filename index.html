@@ -77,7 +77,173 @@
 
     <section id="projects">
         <h2>Projects</h2>
-        <p></p> 
+        <div class="projects-carousel">
+          <div class="projects-container">
+            <div class="project-card">
+              <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7197578323953160192?collapsed=1" 
+                height="896" 
+                width="504" 
+                frameborder="0" 
+                allowfullscreen 
+                title="Embedded post">
+              </iframe>
+            </div>
+            <div class="project-card">
+              <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7197573946894917632?collapsed=1" 
+                height="551" 
+                width="504" 
+                frameborder="0" 
+                allowfullscreen 
+                title="Embedded post">
+              </iframe>
+            </div>
+            <div class="project-card">
+              <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7155428389628104706?collapsed=1" 
+                height="551" 
+                width="504" 
+                frameborder="0" 
+                allowfullscreen 
+                title="Embedded post">
+              </iframe>
+            </div>
+          </div>
+          <div class="carousel-controls"></div>
+            <button class="carousel-btn prev-btn" onclick="changeSlide(-1)">❮ Previous</button>
+            <button class="carousel-btn next-btn" onclick="changeSlide(1)">Next ❯</button>
+          </div>
+          <div class="dots-container">
+            <span class="dot active" onclick="currentSlide(0)"></span>
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+          </div>
+        </div>
+
+        <style>
+        .projects-carousel {
+          position: relative;
+          max-width: 600px;
+          margin: 0 auto;
+          overflow: hidden;
+        }
+
+        .projects-container {
+          position: relative;
+          min-height: 500px; /* Base height */
+          transition: height 0.5s ease;
+        }
+
+        .project-card {
+          display: none;
+          opacity: 0;
+          transition: opacity 0.5s ease;
+          margin: 0 auto;
+          text-align: center;
+        }
+
+        .project-card.active {
+          display: block;
+          opacity: 1;
+        }
+
+        .carousel-controls {
+          display: flex;
+          justify-content: space-between;
+          margin-top: 15px;
+        }
+
+        .carousel-btn {
+          background-color: #4a4a4a;
+          color: white;
+          border: none;
+          padding: 10px 18px;
+          border-radius: 5px;
+          cursor: pointer;
+          transition: background-color 0.3s;
+          font-weight: bold;
+        }
+
+        .carousel-btn:hover {
+          background-color: #333;
+        }
+
+        .dots-container {
+          text-align: center;
+          margin-top: 15px;
+        }
+
+        .dot {
+          height: 12px;
+          width: 12px;
+          margin: 0 5px;
+          background-color: #bbb;
+          border-radius: 50%;
+          display: inline-block;
+          cursor: pointer;
+          transition: background-color 0.3s;
+        }
+
+        .dot.active {
+          background-color: #4a4a4a;
+        }
+        </style>
+
+        <script>
+        let slideIndex = 0;
+        let resizeTimeout;
+
+        // When page loads
+        document.addEventListener('DOMContentLoaded', function() {
+          showSlide(0);
+          
+          // Add resize event listener to handle iframe loading
+          window.addEventListener('resize', function() {
+            clearTimeout(resizeTimeout);
+            resizeTimeout = setTimeout(adjustContainerHeight, 100);
+          });
+          
+          // Add load event listeners to all iframes
+          document.querySelectorAll('.project-card iframe').forEach(iframe => {
+            iframe.addEventListener('load', adjustContainerHeight);
+          });
+        });
+
+        function changeSlide(n) {
+          showSlide(slideIndex += n);
+        }
+
+        function currentSlide(n) {
+          showSlide(slideIndex = n);
+        }
+
+        function showSlide(n) {
+          const slides = document.querySelectorAll('.project-card');
+          const dots = document.querySelectorAll('.dot');
+          
+          if (n >= slides.length) {slideIndex = 0}
+          if (n < 0) {slideIndex = slides.length - 1}
+          
+          // Remove active class from all slides and dots
+          slides.forEach(slide => slide.classList.remove('active'));
+          dots.forEach(dot => dot.classList.remove('active'));
+          
+          // Add active class to current slide and dot
+          slides[slideIndex].classList.add('active');
+          dots[slideIndex].classList.add('active');
+          
+          // Adjust container height after transition
+          setTimeout(adjustContainerHeight, 50);
+        }
+
+        function adjustContainerHeight() {
+          const activeSlide = document.querySelector('.project-card.active');
+          const container = document.querySelector('.projects-container');
+          
+          if (activeSlide && container) {
+            // Add a small buffer for margins
+            container.style.height = (activeSlide.offsetHeight + 20) + 'px';
+          }
+        }
+        </script>
     </section>
     <section id="certificates">
         <h2>Certificates</h2>
